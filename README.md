@@ -1,5 +1,5 @@
 # Anwendungsentwicklung für iOS-Geräte
-**Übungsaufgaben im Wintersemester 2022 (5. Studienplansemester)**
+**Übungsaufgaben im Wintersemester 2021/2022 (5. Studienplansemester)**
 
 _Berliner Hochschule für Technik_  
 _Dozent: Prof. Dr. Dragan Macos_
@@ -10,7 +10,7 @@ Bearbeitung von fünf Übungsaufgaben zur Erlernung grundlegender Prinzipien von
 
 ### English
 # Application Development for iOS-Devices
-**Exercises of winter semester 2022 (5th study plan semester)**
+**Exercises of winter semester 2021/2022 (5th study plan semester)**
 
 _Berlin University of Applied Sciences and Technology_  
 _Lecturer: Prof. Dr. Dragan Macos_
